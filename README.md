@@ -18,7 +18,7 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 > [!TIP]
 > Estos son los requisitos para poder ejecutar la app
 
-# Diseño de pruebas para la funcion "Agregar licencia de conducir".
+# Para las pruebas de api se requiere lo siguiente:
 - Se requiere tener instalado postamn localmente.
 - Tener enlace de acceso al servidor que despliega la aplicación web.
 - Seguir la url que despliega la aplicación en postman como servidor de solicitudes.
