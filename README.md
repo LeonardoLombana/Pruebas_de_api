@@ -47,5 +47,5 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 ## Presentado por:
 - Leonardo Lombana Contento
 
-## Proyecto parte del sprint 3 - Pruebas aplicaciones web
+## Proyecto parte del sprint 4 - Pruebas de Api con postman
 ## Grupo 12 bootcamp QA Engineer - Tripleten
